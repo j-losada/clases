@@ -3,9 +3,14 @@
 <p align="center">
 <img src="docencia_2.jpg" width="500"  class="center"  border="2">
 </p>
-Ver [aqui](horario.md)
 
-Ver [aqui](horario.md)
+M.— ¿Recuerda usted, señor Rodríguez, lo que dijimos de las intuiciones y de los conceptos?
+
+R.— Que son vacíos los conceptos sin intuiciones y ciegas las intuiciones sin los conceptos. Es decir, que no hay manera de llenar un concepto sin la intuición, ni de poner ojos a la intuición sin encajarla en el concepto. Pero unidas las intuiciones y los conceptos tenemos el conocimiento: una oquedad llena que es, al mismo tiempo, una ceguedad vidente.
+
+M.— ¿Y usted ve claro eso que dice?
+
+R.— Con una claridad perfectamente tenebrosa, querido maestro.
 
 <p align="center">
  <img src="docencia_1.jpg" width="500"  class="center"  border="2">

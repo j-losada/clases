@@ -15,13 +15,13 @@ Ver [aqui](horario.md)
 
 <hr size="16px" color="black" />
 
-- 📎 Ver [aqui](horario.md)<br/>
+- 📎 [Introducción al anális matemático](iam.md)<br/>
 
-- 📎 Análisis funcional en espacios de Hilbert<br/>
+- 📎 [Análisis funcional en espacios de Hilbert](afeh.md)<br/>
 
-- 📎 Integración de funciones de una variable Real<br/>
+- 📎 [Integración de funciones de una variable real](if1vr.md)<br/>
 
-- 📎 Series funcionales e integración de Riemann en varias variables reales<br/>
+- 📎 [Series funcionales e integración de Riemann en varias variables reales](sfirvvr.md)<br/>
 
 
 <p align="center">

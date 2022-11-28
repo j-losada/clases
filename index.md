@@ -24,7 +24,7 @@ R.— Con una claridad perfectamente tenebrosa, querido maestro.
 
 - 📎 [Integración de funciones de una variable real](if1vr.md)<br/>
 
-- 📎 [Series funcionales e integración de Riemann en varias variables reales](sfirvvr.md)<br/>
+- 📎 [Series funcionales e integración de Riemann en R^n](sfirvvr.md)<br/>
 
 <hr size="16px" color="black" />
 

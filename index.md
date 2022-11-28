@@ -1,12 +1,9 @@
 # León (y alrededores)<br/>
 
-Ver [aqui](horario.md)
+Y cuando os hiervan los sesos, avisad<br/>
 
- Y cuando os hiervan los sesos, avisad<br/>
-
-Ver [aqui](horario.md)
 <p align="center">
- <img src="docencia_1.jpg" width="500"  class="center"  border="2">
+<img src="docencia_1.jpg" width="500"  class="center"  border="2">
 </p>
 Ver [aqui](horario.md)
 

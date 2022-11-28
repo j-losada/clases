@@ -1,5 +1,7 @@
 # León (y alrededores)<br/>
 
+Ver [aqui](horario.pdf)
+
 <p align="center">
  <img src="IMG20220809175422.jpg" width="500"  class="center" border="2">
 </p>

@@ -16,8 +16,6 @@ R.— Con una claridad perfectamente tenebrosa, querido maestro.
  <img src="docencia_2.jpg" width="500"  class="center"  border="2">
 </p>
 
-Ver [aqui](horario.md)
-
 <hr size="16px" color="black" />
 
 - 📎 [Introducción al análisis matemático](iam.md)<br/>

@@ -38,6 +38,9 @@ R.— Con una claridad perfectamente tenebrosa, querido maestro.
 
 - 📎 [Series funcionales e integración de Riemann en R^n](sfirvvr.md)<br/>
 
+- 📎 [Matemáticas para profesorado de educación secundaria](sfirvvr.md)<br/>
+
+
 <hr size="16px" color="black" />
 
 <p>

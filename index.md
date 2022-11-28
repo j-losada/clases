@@ -9,11 +9,7 @@ Ver [aqui](horario.md)
  <img src="docencia_1.jpg" width="500"  class="center"  border="2">
 </p>
 Ver [aqui](horario.md)
-<p>
-<div align="right">
-(En clase.)
-</div>
-</p>
+
 
 <p>
 M.— ¿Recuerda usted, señor Rodríguez, lo que dijimos de las intuiciones y de los conceptos? Ver [aqui](horario.md)

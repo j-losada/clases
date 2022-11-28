@@ -15,7 +15,7 @@ Ver [aqui](horario.md)
 
 <hr size="16px" color="black" />
 
-- 📎 [Introducción al anális matemático](iam.md)<br/>
+- 📎 [Introducción al análisis matemático](iam.md)<br/>
 
 - 📎 [Análisis funcional en espacios de Hilbert](afeh.md)<br/>
 

@@ -1,7 +1,7 @@
 # Y cuando os hiervan los sesos, avisad<br/>
 
 <p align="center">
-<img src="docencia_2.jpg" width="500"  class="center"  border="2">
+<img src="docencia_1.jpg" width="500"  class="center"  border="2">
 </p>
 
 M.— ¿Recuerda usted, señor Rodríguez, lo que dijimos de las intuiciones y de los conceptos?
@@ -13,7 +13,7 @@ M.— ¿Y usted ve claro eso que dice?
 R.— Con una claridad perfectamente tenebrosa, querido maestro.
 
 <p align="center">
- <img src="docencia_1.jpg" width="500"  class="center"  border="2">
+ <img src="docencia_2.jpg" width="500"  class="center"  border="2">
 </p>
 
 Ver [aqui](horario.md)

@@ -38,9 +38,11 @@ R.— Con una claridad perfectamente tenebrosa, querido maestro.
  <img src="en_el_aula.jpg" width="500"  class="center"  border="2">
 </p>
 
+[Introducción al análisis matemático](iam.html)
+
 <hr size="16px" color="black" />
 
-- 📎 [Introducción al análisis matemático](iam.html)<br/>
+- 📎 [Introducción al análisis matemático](iam.html)
 
 - 📎 Análisis funcional en espacios de Hilbert<br/>
 

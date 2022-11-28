@@ -4,10 +4,11 @@ Ver [aqui](horario.md)
 
  Y cuando os hiervan los sesos, avisad<br/>
 
+Ver [aqui](horario.md)
 <p align="center">
  <img src="enclase.jpg" width="500"  class="center"  border="2">
 </p>
-
+Ver [aqui](horario.md)
 <p>
 <div align="right">
 (En clase.)

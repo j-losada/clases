@@ -67,5 +67,5 @@ Ver [aqui](horario.md)
 </p>
 
 <p align="center">
- <img src="nostalgia.jpg" width="350"  class="center"  border="2">
+ <img src="docencia_4.jpg" width="350"  class="center"  border="2">
 </p>

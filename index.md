@@ -38,11 +38,11 @@ R.— Con una claridad perfectamente tenebrosa, querido maestro.
  <img src="en_el_aula.jpg" width="500"  class="center"  border="2">
 </p>
 
-[análisis matemático](iam.md)
+[análisis](horario.md)
 
 <hr size="16px" color="black" />
 
-- 📎 [Introducción al análisis matemático](iam.md)
+- 📎 [Introducción al análisis matemático](horario.md)
 
 - 📎 Análisis funcional en espacios de Hilbert<br/>
 

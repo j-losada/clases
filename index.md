@@ -1,6 +1,4 @@
-# León (y alrededores)<br/>
-
-Y cuando os hiervan los sesos, avisad<br/>
+# Y cuando os hiervan los sesos, avisad<br/>
 
 <p align="center">
 <img src="docencia_1.jpg" width="500"  class="center"  border="2">

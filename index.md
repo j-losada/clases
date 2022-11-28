@@ -5,6 +5,8 @@
 </p>
 Ver [aqui](horario.md)
 
+Ver [aqui](horario.md)
+
 
 <p>
 M. Recuerda usted, señor Rodríguez, lo que dijimos de las intuiciones y de los conceptos Ver [aqui](horario.md)

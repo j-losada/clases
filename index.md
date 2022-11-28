@@ -6,7 +6,7 @@ Ver [aqui](horario.md)
 
 Ver [aqui](horario.md)
 <p align="center">
- <img src="enclase.jpg" width="500"  class="center"  border="2">
+ <img src="docencia_1.jpg" width="500"  class="center"  border="2">
 </p>
 Ver [aqui](horario.md)
 <p>
@@ -36,7 +36,7 @@ R.— Con una claridad perfectamente tenebrosa, querido maestro.
 </p>
 
 <p align="center">
- <img src="en_el_aula.jpg" width="500"  class="center"  border="2">
+ <img src="docencia_2.jpg" width="500"  class="center"  border="2">
 </p>
 
 Ver [aqui](horario.md)

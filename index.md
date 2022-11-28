@@ -12,6 +12,12 @@ M.— ¿Y usted ve claro eso que dice?
 
 R.— Con una claridad perfectamente tenebrosa, querido maestro.
 
+<p>
+<div align="right">
+<em>Juan de Mairena</em>
+</div>
+</p>
+
 <p align="center">
  <img src="docencia_2.jpg" width="500"  class="center"  border="2">
 </p>

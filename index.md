@@ -7,27 +7,6 @@ Ver [aqui](horario.md)
 
 Ver [aqui](horario.md)
 
-
-<p>
-M. Recuerda usted, señor Rodríguez, lo que dijimos de las intuiciones y de los conceptos Ver [aqui](horario.md)
-</p>
-  
-<p>
-R.— Que son vacíos los conceptos sin intuiciones y ciegas las intuiciones sin los conceptos. Es decir, que no hay manera de llenar un concepto sin la intuición, ni de poner ojos a la intuición sin encajarla en el concepto. Pero unidas las intuiciones y los conceptos tenemos el conocimiento: una oquedad llena que es, al mismo tiempo, una ceguedad vidente.</p>
-
-<p>
-M.— ¿Y usted ve claro eso que dice?
-
-<p>  
-R.— Con una claridad perfectamente tenebrosa, querido maestro.
-</p>
-
-<p>
-<div align="right">
-<em>Juan de Mairena</em>
-</div>
-</p>
-
 <p align="center">
  <img src="docencia_2.jpg" width="500"  class="center"  border="2">
 </p>

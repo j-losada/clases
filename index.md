@@ -15,7 +15,7 @@ Ver [aqui](horario.md)
 
 <hr size="16px" color="black" />
 
-- 📎 Ver [aqui](horario.md)
+- 📎 Ver [aqui](horario.md)<br/>
 
 - 📎 Análisis funcional en espacios de Hilbert<br/>
 

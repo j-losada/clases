@@ -30,6 +30,8 @@ R.— Con una claridad perfectamente tenebrosa, querido maestro.
 
 <hr size="16px" color="black" />
 
+Acumularé por aquí diverso material docente para las siguientes asignaturas:
+
 - 📎 [Introducción al análisis matemático](iam.md)<br/>
 
 - 📎 [Análisis funcional en espacios de Hilbert](afeh.md)<br/>

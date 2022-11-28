@@ -1,14 +1,14 @@
 # Y cuando os hiervan los sesos, avisad<br/>
 
 <p align="center">
-<img src="docencia_1.jpg" width="500"  class="center"  border="2">
+<img src="docencia_2.jpg" width="500"  class="center"  border="2">
 </p>
 Ver [aqui](horario.md)
 
 Ver [aqui](horario.md)
 
 <p align="center">
- <img src="docencia_2.jpg" width="500"  class="center"  border="2">
+ <img src="docencia_1.jpg" width="500"  class="center"  border="2">
 </p>
 
 Ver [aqui](horario.md)

@@ -28,11 +28,6 @@ Ver [aqui](horario.md)
 
 - 📎 [Series funcionales e integración de Riemann en varias variables reales](sfirvvr.md)<br/>
 
-
-<p align="center">
- <img src="apuntes_manuscritos.jpg" width="300"  class="center"  border="2">
-</p>
-
 <hr size="16px" color="black" />
 
 <p>

@@ -37,6 +37,7 @@ Acumularé por aquí diverso material docente para las siguientes asignaturas:
 - 📎 [Series funcionales e integración de Riemann en R^n](sfirvvr.md)<br/>
 - 📎 [Diferenciación de funciones de varias variables reales](sfirvvr.md)<br/>
 - 📎 [Análisis funcional en espacios de Hilbert](afeh.md)<br/>
+- 📎 [Análisis funcional](afeh.md)<br/>
 - 📎 [Matemáticas para profesorado de educación secundaria](profesorado.md)<br/>
 
 

@@ -33,10 +33,10 @@ R.— Con una claridad perfectamente tenebrosa, querido maestro.
 Acumularé por aquí diverso material docente para las siguientes asignaturas:
 
 - 📎 [Introducción al análisis matemático](iam.md)<br/>
-- 📎 [Análisis funcional en espacios de Hilbert](afeh.md)<br/>
 - 📎 [Integración de funciones de una variable real](if1vr.md)<br/>
 - 📎 [Series funcionales e integración de Riemann en R^n](sfirvvr.md)<br/>
 - 📎 [Diferenciación de funciones de varias variables reales](sfirvvr.md)<br/>
+- 📎 [Análisis funcional en espacios de Hilbert](afeh.md)<br/>
 - 📎 [Matemáticas para profesorado de educación secundaria](profesorado.md)<br/>
 
 

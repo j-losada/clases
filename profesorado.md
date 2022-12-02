@@ -1,6 +1,6 @@
 Según las [_Bases para la elaboración de un currículo de Matemáticas en Educación no Universitaria_](https://matematicas.uclm.es/cemat/wp-content/uploads/bases2021.pdf) redactadas en mayo de 2021 por el Comité Español de Matemáticas (CEMat):
 
-_En Bachillerato todo el alumnado debería: Valorar que la probabilidad no es una propiedad objetiva de los sucesos, sino la percepción o grado de creencia en la verosimilitud de la persona que asigna la probabilidad sobre la plausibilidad de ocurrencia de un suceso._
+_"En Bachillerato todo el alumnado debería: Valorar que la probabilidad no es una propiedad objetiva de los sucesos, sino la percepción o grado de creencia en la verosimilitud de la persona que asigna la probabilidad sobre la plausibilidad de ocurrencia de un suceso"._
 
 Ante esta situación, decidimos centrar nuestra atención en primaria y secundaria. Además...
 

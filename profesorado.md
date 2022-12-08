@@ -16,9 +16,10 @@ _El hecho de que sea posible enseñar combinatoria a niños de pocos años no es
 
 _El hecho de que se puedan enseñar probabilidades a los niños no es en sí razón suficiente para hacerlo. La razón principal para introducirles cuanto antes en esta rama de las matemáticas es que difiere fundamentalmente de las demás, y si obligamos a estas ideas a permanecer demasiado tiempo implícitas, los niños tendrán una idea estrecha y deformada del conjunto de la matemática, de su potencia y de sus posibilidades._
 
+(En demolición)
+
+-  📎 [¿Cómo se hacen las matemáticas?](pruebas_y_refutaciones.pdf)<br/>
+
 <p align="center">
 <img src="maestro_enfermo.jpg" width="500"  class="center"  border="2">
 </p>
-
-
-(En demolición)

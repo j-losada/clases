@@ -71,4 +71,6 @@ En relación co teu cuarto parágrafo: a miña sensación é que o mundo cambia 
 (non sei se vos parece estraño o que digo, pero o certo é que era un comentario moi habitual non fai tanto tempo)
 Supoño que estes profesores seguen en activo a día de hoxe e apostaría a que  xa non din o mesmo (senón todo o contrario). Que mudou? Eran e son prexuizos antes e agora?
 
-Sobre o elitismo, ademais de nas ideas e constructossociais que comentas, como se materializa? Quero dicir, os axentes educativos de que maneira concreta fomentan (ou loitan contra) ese elitismo? 
+Sobre o elitismo, ademais de nas ideas e constructossociais que comentas, como se materializa? Quero dicir, os axentes educativos de que maneira concreta fomentan (ou loitan contra) ese elitismo?
+
+<hr>

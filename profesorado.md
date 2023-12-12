@@ -25,6 +25,15 @@ _El hecho de que se puedan enseñar probabilidades a los niños no es en sí raz
 </p>
 
 El día 08/10/2023 en el programa de Radio Nacional de España No es un día cualquiera se escuchó lo siguiente:
+click <audio id="ID004" source src="audio_05_no_es_un_dia_cualquiera.mp3"></audio><button onclick="playAudio('ID004')" type="button">play4</button> and then <audio id="ID003" source src="003.mp3"></audio><button onclick="playAudio('ID003')" type="button">play3</button>
+<script>
+function playAudio(audio_element) {
+	var x = document.getElementById(audio_element);
+	x.play();
+}
+</script>
+
+
 const audioTune = new Audio("https://github.com/j-losada/docencia/blob/main/audio_05_no_es_un_dia_cualquiera.mp3?raw=true');
 
 

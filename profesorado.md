@@ -27,7 +27,7 @@ _El hecho de que se puedan enseñar probabilidades a los niños no es en sí raz
 __Sobre la dificultad de explicar, entender y hacer matemáticas__
 
 El día 08/10/2023 en el programa de Radio Nacional de España No es un día cualquiera se escuchó lo siguiente:
-<audio id="ID004" source src="audio_05_no_es_un_dia_cualquiera.mp3"></audio><button onclick="playAudio('ID004')" type="button">audio_01</button>
+<audio id="ID001" source src="audio_05_no_es_un_dia_cualquiera.mp3"></audio><button onclick="playAudio('ID001')" type="button">audio_01</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);
@@ -38,7 +38,7 @@ function playAudio(audio_element) {
 Se abre el debate.
 
 Otra posible explicación de la dificultad de explicar (para el docente) y entender (para el discente) matemáticas podría ser la siguiente:
-<audio id="ID004" source src="audio_bastos.mp3"></audio><button onclick="playAudio('ID004')" type="button">audio_02</button>
+<audio id="ID002" source src="audio_bastos.mp3"></audio><button onclick="playAudio('ID002')" type="button">audio_02</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);
@@ -47,6 +47,8 @@ function playAudio(audio_element) {
 </script>
 
 (Escuchado en la conferencia del profesor Miguel Anxo Bastos en el Seminario "Ideologías y Teoría Política contemporánea" de la Universidad Francisco Marroquin)
+
+Otra posible explicación de la dificultad de explicar (para el docente) y entender (para el discente) matemáticas podría ser la siguiente:
 
 _Sobre una base de pura probabilidad, la inteligencia se distribuiría entre los matemáticos como entre los abogados, los médicos, los ingenieros y los hombres de negocios. Pero un ligero análisis nos puede llevar a dudar de que los matemáticos posean su parte de inteligencia. ¿Qué puede atraer a la gente hacia las matemáticas? Son una cosa sencilla, por comparación con la economía, la psicología o la física. Son un campo estrecho. No hay que tener un amplio bagaje de conocimientos para hacer matemáticas puras. Además, las matemáticas per se no tienen nada que ver con los seres humanos ni con los complejos problemas que plantea su trato. Como dijo Bertrand Russell, «Distante de las pasiones humanas, distante incluso de los compasivos actos de la naturaleza, las generaciones han creado un cosmos ordenado en que el pensamiento puro puede explayarse como en su propia casa y en el que al menos uno de nuestros más nobles impulsos puede escapar de su monótono exilio en el mundo real». Las matemáticas son adecuadas para atraer a aquellos que no se sienten capaces de tratar con la gente, a aquellos que se alejan de los problemas del mundo y que reconocen incluso conscientemente su incapacidad para tratar con tales problemas. Las matemáticas pueden servir de refugio._
 

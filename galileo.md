@@ -10,6 +10,7 @@ function playAudio(audio_element) {
 </script>
  
 Pareceume especialmente sorprendente e algo críptico o que di ao final:
+
 _«Escribe Esteban Hernández que las élites españolas están en guerra contra los intelectuales: las humanidades son cosa de pobres en tiempos de algoritmo rey. Frente a la porquería, aritmética, o sea, saldo. En Fundación, Asimov llama psicohistoria al cálculo que predice el futuro social. La matemática es útil hasta que vaticina el fin del imperio. Entonces el emperador, furioso, condena al sabio y mata a millones de personas, que es como las dictaduras de uniforme y capital construyen sus paraísos de paz y prosperidad»._
 
 (audio de [Víctor García Guerrero](https://twitter.com/VictorGGuerrero?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), lleva por título [_Dictaduras de aritmética rugen libertad_](https://www.ivoox.com/dictaduras-aritmetica-rugen-libertad-audios-mp3_rf_78824089_1.html))

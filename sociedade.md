@@ -27,37 +27,19 @@ Formulo las siguientes preguntas:
 
 <hr>
 
-Volvín conectar a radio e xa non sei se foi boa idea.
+Volví a encender la radio y no sé si fue buena idea.
 
-No programa A hombros de gigantes de Radio Nacional de España, que se emite de 03:00 a 04:00 horas da madrugada dos sábados, dixeron isto:
+En el programa _A hombros de gigantes_ de Radio Nacional de España, que se emite los sábados de 03:00 a 04:00 de la mañana, decían esto:
+
+Las tardes de Radio Nacional son más tranquilas. En el programa _Por tres razones_ de ayer dijeron esto:
  
 
-Reproducir
-
-Silenciar
-Tempo restante -8:17
-1x
-Velocidade de reprodución
-As tardes de Radio Nacional son máis tranquilas. No programa Por tres razones de onte dixeron isto:
- 
-
-Reproducir
-
-Silenciar
-Tempo restante -12:41
-1x
-Velocidade de reprodución
- 
-
-Quedei pensando e:  
-"La ciencia cuanto más mejor"? 
-Visto o visto -ou mellor dito, escoitado o escoitado-,  debería aumentar a inversión pública en ciencia?
-É a ciencia un ben de consumo máis na sociedade occidental actual? E a educación?
-[desculpas polo rap do inicio do segundo audio, non é cousa miña]
-Sobre GeoGebra, ignorando -tal e como fan no propio programa- o debate sobre a súa uitilidade e conveniencia na aula de matemáticas, pareceume curioso que non mencionaran que o propietario de GeoGebra é Byju's. Como -futuros- profesores de secundaria debería preocuparnos o que se di no seguinte texto?
-https://en.wikipedia.org/wiki/Byju%27s#Criticism
-
-
+Me quedé pensando y:
+- ¡"la ciencia cuanto mas mejor"?
+- Visto lo visto -o mejor dicho, oído lo oído- ¿debería aumentar la inversión pública en ciencia?
+- ¿Es la ciencia un bien de consumo más en la sociedad occidental actual? ¿Qué pasa con la educación? (disculpas por el rap al inicio del segundo audio)
+- Sobre GeoGebra, obviando -como hacen en el propio programa- el debate sobre su utilidad y conveniencia en el aula de matemáticas, me pareció curioso que no mencionaran que el dueño de GeoGebra es de Byju. Como -futuros- docentes de secundaria ¿deberíamos preocuparnos por lo que se dice en el siguiente texto?
+[https://en.wikipedia.org/wiki/Byju%27s#Criticism](https://en.wikipedia.org/wiki/Byju%27s#Criticism)
 
 <hr>
 

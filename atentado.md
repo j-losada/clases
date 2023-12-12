@@ -1,7 +1,7 @@
 __Nuevo atentado contra las matemáticas__
 
 El título de este hilo no es cosa mía:
-<audio id="ID007" source src="drama_en_murcia.mp3"></audio><button onclick="playAudio('ID007')" type="button">audio_07</button>
+<audio id="ID007" source src="drama_en_murcia.mp3"></audio><button onclick="playAudio('ID007')" type="button">audio_07 (09:16)</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);

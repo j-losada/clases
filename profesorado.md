@@ -72,15 +72,13 @@ _Una de las razones básicas de que los matemáticos fallen como pedagogos provi
 _Es racional presentar las matemáticas lógicamente, pero no es acertado. Consideremos la enseñanza del cálculo. Sabemos que el cálculo se construye sobre la teoría de los límites y podríamos concluir que el camino para enseñar el cálculo es empezar con la teoría de los límites. Un hombre inteligente también reflexionaría sobre si los jóvenes podrán aprender la teoría de los límites desde un principio y si querrán aprenderla sin motivaciones y aclaraciones previas._
 
 
+Grazas polo teu comentario X.
 
-
-Grazas polo teu comentario Alex.
-
-A obra de Morris Kline El fracaso de la matemática moderna apareceu en 1973 e Russell faleceu en 1970. Atrévome a afirmar que Kline coñecía perfectamente a obra, pensamento e "militancia" de Russell cando escribiu o seu libro.
+A obra de Morris Kline _El fracaso de la matemática moderna_ apareceu en 1973 e Russell faleceu en 1970. Atrévome a afirmar que Kline coñecía perfectamente a obra, pensamento e "militancia" de Russell cando escribiu o seu libro.
 
 De qué matemáticos fala Kline? Claro, para responder a esta cuestión habería que ler o libro completo.
-[Culpa miña por suxerir comentar aquí fragmentos illados da obra e non comentar nada en clases sobre o autor e a propia obra, intento correxirme a continuación].
-Kline fala dos matemáticos que a comezos dos anos 70 redactaron un novidoso plan de estudos (para primaria e secundaria) para substituír ao que eles mesmos denominaban "matemática tradicional". Foron as coñecidas como New Math que, nacendo en EEUU, pronto chegaron a moitos países de Europa occidental. O certo é que, tal e como xa advertira Jline, foron un sonoro fracso. Mesmo apareceron cancións ridiculizando tal "reforma":
+(Culpa miña por suxerir comentar aquí fragmentos illados da obra e non comentar nada en clases sobre o autor e a propia obra, intento correxirme a continuación).
+Kline fala dos matemáticos que a comezos dos anos 70 redactaron un novidoso plan de estudos (para primaria e secundaria) para substituír ao que eles mesmos denominaban "matemática tradicional". Foron as coñecidas como New Math que, nacendo en EEUU, pronto chegaron a moitos países de Europa occidental. O certo é que, tal e como xa advertira Kline, foron un sonoro fracso. Mesmo apareceron cancións ridiculizando tal "reforma":
 Reproducir vídeo
 
 Curiosamente, nalgún fragmento da obra, Kline di algo moi parecido ao que dis ti no final do teu terceiro parágrafo.
@@ -89,11 +87,11 @@ Xustamente, Kline critica duramente a un selecto grupo de matemáticos que, segu
 
 
 
-Grazas Javier polo teu comentario.
+Grazas X polo teu comentario.
 
 Sen dúbida que hai áreas e niveis das matemáticas nos que se investiga e se intenta avanzar no coñecemento sen ter en conta ningunha posible aplicación ou xustificación dun fenómeno físico do mundo real. A cuestión é se focalizar as matemáticas niso conducirá ou non (ou xa conduciu) ao seu fracaso no presente e futuro. En calquera caso, penso que a nós, nesta materia o que máis nos interesa é o que comentas a nivel secundaria.
 
 Anímote a ti e a calquera estudante a ler o libro completo, non é moi longo e penso que sorprendentemente trata temas da actualidade máis recente.
 
 Aínda que son ben coñecidos numerosos exemplos nos que as ciencias non contribuiron en absoluto á mellora e avance da sociedade, últimamente tamén apareceron nos xornais novas sobre a investigación científica e a utilidade da mesma. Por exemplo:
-https://elpais.com/ciencia/2023-04-20/se-nos-pudre-la-ciencia.html
+[https://elpais.com/ciencia/2023-04-20/se-nos-pudre-la-ciencia.html](https://elpais.com/ciencia/2023-04-20/se-nos-pudre-la-ciencia.html)

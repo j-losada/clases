@@ -1,5 +1,5 @@
 El día 07/09/2023 en el programa de Radio Nacional de España _Efecto Doppler_ se escuchó lo siguiente:
-<audio id="ID003" source src="audio_01_escuelas_en_ruinas.mp3"></audio><button onclick="playAudio('ID003')" type="button">audio_01</button>
+<audio id="ID003" source src="audio_01_escuelas_en ruinas.mp3"></audio><button onclick="playAudio('ID003')" type="button">audio_01</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);

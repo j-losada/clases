@@ -28,4 +28,5 @@ _El hecho de que se puedan enseñar probabilidades a los niños no es en sí raz
 - [Sobre matemáticas (o ciencia) y sociedad](sociedade.md)
 - [La necesidad del número _e_](numeroe.md)
 - [Nuevo atentado contra las matemáticas](atentado.md)
+- [Escuela o barbarie](escuelaobarbarie.md)
 

@@ -1,6 +1,6 @@
 __Matemáticas, humanidades, Galileo, Giordano Bruno, pensamiento crítico...__
 
-El día 25/11/2021 en el programa de [Radio Nacional de España](https://www.rtve.es/radio/) [_Efecto Doppler_](https://www.rtve.es/play/audios/efecto-doppler/) se escuchó lo siguiente:
+El día 25/11/2021 en el programa de [Radio Nacional](https://www.rtve.es/radio/) de España [_Efecto Doppler_](https://www.rtve.es/play/audios/efecto-doppler/) se escuchó lo siguiente:
 <audio id="ID008" source src="audio_03_dictaduras_aritmetica.mp3"></audio><button onclick="playAudio('ID008')" type="button">audio_08 (03:23)</button>
 <script>
 function playAudio(audio_element) {

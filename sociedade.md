@@ -1,5 +1,5 @@
-El día 07/09/2023 en el programa de Radio Nacional de España _Efecto Doppler_ se escuchó lo siguiente:
-<audio id="ID003" source src="audio_01_escuelas_en ruinas.mp3"></audio><button onclick="playAudio('ID003')" type="button">audio_01</button>
+El día 07/09/2023 en el programa de [Radio Nacional de España](https://www.rtve.es/radio/) [_Efecto Doppler_](https://www.rtve.es/play/audios/efecto-doppler/) se escuchó lo siguiente:
+<audio id="ID003" source src="audio_01_escuelas_en ruinas.mp3"></audio><button onclick="playAudio('ID003')" type="button">audio_03</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);
@@ -8,7 +8,7 @@ function playAudio(audio_element) {
 </script>
    
 En el mismo programa radiofónico, el 14/12/2022 se escuchó lo siguiente:
-<audio id="ID004" source src="audio_02_arte_clase_obrera.mp3"></audio><button onclick="playAudio('ID004')" type="button">audio_01</button>
+<audio id="ID004" source src="audio_02_arte_clase_obrera.mp3"></audio><button onclick="playAudio('ID004')" type="button">audio_04</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);
@@ -16,7 +16,7 @@ function playAudio(audio_element) {
 }
 </script>
  
-(audios de Víctor García Guerrero, el primeiro lleva por título _Escuelas en ruínas en el país de Oxford_ y el segundo _El arte no es para la clase obrera_)
+(audios de [Víctor García Guerrero](https://twitter.com/VictorGGuerrero?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), el primeiro lleva por título [_Escuelas en ruínas en el país de Oxford_](https://lasoga.org/escuelas-en-ruinas-en-el-pais-de-oxford-7-de-septiembre/) y el segundo [_El arte no es para la clase obrera_](https://www.ivoox.com/arte-no-es-para-clase-obrera-audios-mp3_rf_99691014_1.html))
 
 Formulo las siguientes preguntas:
 
@@ -29,13 +29,26 @@ Formulo las siguientes preguntas:
 
 Volví a encender la radio y no sé si fue buena idea.
 
-En el programa _A hombros de gigantes_ de Radio Nacional de España, que se emite los sábados de 03:00 a 04:00 de la mañana, decían esto:
+En el programa [_A hombros de gigantes_](https://www.rtve.es/play/audios/a-hombros-de-gigantes/) de Radio Nacional de España, que se emite los sábados de 03:00 a 04:00 de la mañana, decían esto:
+<audio id="ID005" source src="audio_02_arte_clase_obrera.mp3"></audio><button onclick="playAudio('ID005')" type="button">audio_05</button>
+<script>
+function playAudio(audio_element) {
+	var x = document.getElementById(audio_element);
+	x.play();
+}
+</script>
 
 Las tardes de Radio Nacional son más tranquilas. En el programa _Por tres razones_ de ayer dijeron esto:
- 
+<audio id="ID006" source src="audio_02_arte_clase_obrera.mp3"></audio><button onclick="playAudio('ID006')" type="button">audio_06</button>
+<script>
+function playAudio(audio_element) {
+	var x = document.getElementById(audio_element);
+	x.play();
+}
+</script>
 
 Me quedé pensando y:
-- ¡"la ciencia cuanto mas mejor"?
+- ¿"la ciencia cuanto mas mejor"?
 - Visto lo visto -o mejor dicho, oído lo oído- ¿debería aumentar la inversión pública en ciencia?
 - ¿Es la ciencia un bien de consumo más en la sociedad occidental actual? ¿Qué pasa con la educación? (disculpas por el rap al inicio del segundo audio)
 - Sobre GeoGebra, obviando -como hacen en el propio programa- el debate sobre su utilidad y conveniencia en el aula de matemáticas, me pareció curioso que no mencionaran que el dueño de GeoGebra es de Byju. Como -futuros- docentes de secundaria ¿deberíamos preocuparnos por lo que se dice en el siguiente texto?

@@ -1,7 +1,7 @@
 __Sobre la dificultad de explicar, entender y hacer matemáticas__
 
 El día 08/10/2023 en el programa de [Radio Nacional](https://www.rtve.es/radio/) de España [_No es un día cualquiera_](https://www.rtve.es/play/audios/no-es-un-dia-cualquiera/) se escuchó lo siguiente:
-<audio id="ID001" source src="audio_05_no_es_un_dia_cualquiera.mp3"></audio><button onclick="playAudio('ID001')" type="button">audio_01</button>
+<audio id="ID001" source src="audio_05_no_es_un_dia_cualquiera.mp3"></audio><button onclick="playAudio('ID001')" type="button">audio_01 (02:10)</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);
@@ -14,7 +14,7 @@ Se abre el debate.
 <hr>
 
 Otra posible explicación de la dificultad de explicar (para el docente) y entender (para el discente) matemáticas podría ser la siguiente:
-<audio id="ID002" source src="audio_bastos.mp3"></audio><button onclick="playAudio('ID002')" type="button">audio_02</button>
+<audio id="ID002" source src="audio_bastos.mp3"></audio><button onclick="playAudio('ID002')" type="button">audio_02 (02:25)</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);

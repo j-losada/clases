@@ -70,3 +70,30 @@ _También es fácil ver por qué los textos están tan pobremente escritos. La e
 _Una de las razones básicas de que los matemáticos fallen como pedagogos proviene de la naturaleza de la mente matemática. Una de las creencias más comunes es que los matemáticos son la encarnación misma de la inteligencia y que por tanto siempre pueden actuar sabiamente y obtener la solución de todos los problemas. La mayor parte de la gente lo cree porque les asusta la sola apariencia de los símbolos, y concluyen que si alguien puede manejar estos símbolos debe ser muy inteligente. Cabría pensar también que todos los franceses deben ser muy inteligentes desde el momento en que saben francés. Pero yo me arriesgaría a distinguir entre la capacidad intelectual de un matemático y su inteligencia. El matemático tiene la habilidad de hacer distinciones exactas sobre el significado de las palabras, tiene la capacidad de aprender y aplicar las leyes de la lógica y la capacidad de retener y comparar un número de hechos. Posee lo que yo llamaría una mente racional. También puede ser creador en el terreno de las matemáticas. La inteligencia ciertamente puede incluir estas cualidades racionales, pero también incluye muchas más: el discernimiento, la capacidad de aprender de la experiencia, la percepción de los valores, la comprensión de los seres humanos y la capacidad de usar el conocimiento para solucionar los problemas humanos. Estas últimas cualidades no las poseen los matemáticos ni ningún otro grupo de gente seleccionado al azar._
 
 _Es racional presentar las matemáticas lógicamente, pero no es acertado. Consideremos la enseñanza del cálculo. Sabemos que el cálculo se construye sobre la teoría de los límites y podríamos concluir que el camino para enseñar el cálculo es empezar con la teoría de los límites. Un hombre inteligente también reflexionaría sobre si los jóvenes podrán aprender la teoría de los límites desde un principio y si querrán aprenderla sin motivaciones y aclaraciones previas._
+
+
+
+
+Grazas polo teu comentario Alex.
+
+A obra de Morris Kline El fracaso de la matemática moderna apareceu en 1973 e Russell faleceu en 1970. Atrévome a afirmar que Kline coñecía perfectamente a obra, pensamento e "militancia" de Russell cando escribiu o seu libro.
+
+De qué matemáticos fala Kline? Claro, para responder a esta cuestión habería que ler o libro completo.
+[Culpa miña por suxerir comentar aquí fragmentos illados da obra e non comentar nada en clases sobre o autor e a propia obra, intento correxirme a continuación].
+Kline fala dos matemáticos que a comezos dos anos 70 redactaron un novidoso plan de estudos (para primaria e secundaria) para substituír ao que eles mesmos denominaban "matemática tradicional". Foron as coñecidas como New Math que, nacendo en EEUU, pronto chegaron a moitos países de Europa occidental. O certo é que, tal e como xa advertira Jline, foron un sonoro fracso. Mesmo apareceron cancións ridiculizando tal "reforma":
+Reproducir vídeo
+
+Curiosamente, nalgún fragmento da obra, Kline di algo moi parecido ao que dis ti no final do teu terceiro parágrafo.
+
+Xustamente, Kline critica duramente a un selecto grupo de matemáticos que, segundo a súa opinión, metéronse a falar de algo do que non teñen nin idea: o currículo de matemáticas para primaria e secundaria. El mesmo é matemático e na obra defende as ideas  e propostas de moitos matemáticos. Certamente, tamén critica duramente a de moitos outros e á comunidade matemática en xeral. 
+
+
+
+Grazas Javier polo teu comentario.
+
+Sen dúbida que hai áreas e niveis das matemáticas nos que se investiga e se intenta avanzar no coñecemento sen ter en conta ningunha posible aplicación ou xustificación dun fenómeno físico do mundo real. A cuestión é se focalizar as matemáticas niso conducirá ou non (ou xa conduciu) ao seu fracaso no presente e futuro. En calquera caso, penso que a nós, nesta materia o que máis nos interesa é o que comentas a nivel secundaria.
+
+Anímote a ti e a calquera estudante a ler o libro completo, non é moi longo e penso que sorprendentemente trata temas da actualidade máis recente.
+
+Aínda que son ben coñecidos numerosos exemplos nos que as ciencias non contribuiron en absoluto á mellora e avance da sociedade, últimamente tamén apareceron nos xornais novas sobre a investigación científica e a utilidade da mesma. Por exemplo:
+https://elpais.com/ciencia/2023-04-20/se-nos-pudre-la-ciencia.html

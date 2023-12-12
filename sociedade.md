@@ -27,6 +27,40 @@ Formulo las siguientes preguntas:
 
 <hr>
 
+Volvín conectar a radio e xa non sei se foi boa idea.
+
+No programa A hombros de gigantes de Radio Nacional de España, que se emite de 03:00 a 04:00 horas da madrugada dos sábados, dixeron isto:
+ 
+
+Reproducir
+
+Silenciar
+Tempo restante -8:17
+1x
+Velocidade de reprodución
+As tardes de Radio Nacional son máis tranquilas. No programa Por tres razones de onte dixeron isto:
+ 
+
+Reproducir
+
+Silenciar
+Tempo restante -12:41
+1x
+Velocidade de reprodución
+ 
+
+Quedei pensando e:  
+"La ciencia cuanto más mejor"? 
+Visto o visto -ou mellor dito, escoitado o escoitado-,  debería aumentar a inversión pública en ciencia?
+É a ciencia un ben de consumo máis na sociedade occidental actual? E a educación?
+[desculpas polo rap do inicio do segundo audio, non é cousa miña]
+Sobre GeoGebra, ignorando -tal e como fan no propio programa- o debate sobre a súa uitilidade e conveniencia na aula de matemáticas, pareceume curioso que non mencionaran que o propietario de GeoGebra é Byju's. Como -futuros- profesores de secundaria debería preocuparnos o que se di no seguinte texto?
+https://en.wikipedia.org/wiki/Byju%27s#Criticism
+
+
+
+<hr>
+
 <hr>
 
 Moitas grazas X polo teu longo comentario.

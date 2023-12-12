@@ -1,5 +1,7 @@
 # Matemáticas para profesorado de secundaria<br/>
 
+<hr>
+
 Pensé que crear un _Foro de debate_ podría ser interesante, pero lo cierto es que no cautivó a los estudiantes. En cualquier caso, estos fueron los temas tratados:
 
 - [Sobre la difultad de explicar, entender y hacer matemáticas](dificultade.md)

@@ -32,7 +32,7 @@ function playAudio(audio_element) {
 }
 </script>
 
-<audio id="ID011" source src="audio_pensamiento_critico.mp3"></audio><button onclick="playAudio('ID011')" type="button">audio_11</button>
+<audio id="ID011" source src="audio_ciencia_mal.mp3"></audio><button onclick="playAudio('ID011')" type="button">audio_11</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);
@@ -40,7 +40,7 @@ function playAudio(audio_element) {
 }
 </script>
 
-<audio id="ID012" source src="audio_ciencia_mal.mp3"></audio><button onclick="playAudio('ID012')" type="button">audio_12</button>
+<audio id="ID012" source src="audio_pensamiento_critico.mp3"></audio><button onclick="playAudio('ID012')" type="button">audio_12</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);

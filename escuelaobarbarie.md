@@ -21,3 +21,9 @@ _Siglos y siglos pensando que las Matemáticas eran precisamente la puerta de ac
 Reconozco que a principios de curso pensé que esto del foro sería un poco más participativo. Espero que algunas de las entradas fuese mínimamente de vuestro interés.
 
 <hr>
+
+<hr>
+
+Esta entrada del foro no generó ninguna respuesta por parte de los estudiantes.
+
+<hr>

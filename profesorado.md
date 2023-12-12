@@ -24,6 +24,8 @@ _El hecho de que se puedan enseñar probabilidades a los niños no es en sí raz
 <img src="maestro_enfermo.jpg" width="500"  class="center"  border="2">
 </p>
 
+- [Sobre la difultad de explicar, entender y hacer matemáticas](dificultad.md)
+
 <hr>
 __Sobre la dificultad de explicar, entender y hacer matemáticas__
 

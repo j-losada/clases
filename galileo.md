@@ -58,6 +58,23 @@ function playAudio(audio_element) {
 <hr>
 <hr>
 
+Moitas grazas X polo teu comentario.
 
+Na miña opinión, no audio non pretenden defender en absoluto teorías conspiranoicas e tampouco mencionan o terraplanismo. Penso que simplemente se preguntan se agora, a diferencia da época de Galileo Galilei e Giordano Bruno, non existe a censura científica. Bueno... máis ben penso que suxiren que si que existe.
+
+Para min, un exemplo claro do que mencionan podería ser isto:
+- [Bayer acepta pagar 11.000 millones de dólares a las víctimas del herbicida Roundup en Estados Unidos](https://elpais.com/sociedad/2020-06-24/bayer-acepta-pagar-11000-millones-de-dolares-a-las-victimas-del-herbicida-roundup.html)
+- [Glifosato](https://es.wikipedia.org/wiki/Glifosato)
+
+E, se queres, unha científica -aínda que non de formación- actual condenada a certo ostracismo podería ser Marie-Monique Robin, autora de documentais coma por exemplo
+- [El mundo según Monsanto](https://es.wikipedia.org/wiki/El_mundo_seg%C3%BAn_Monsanto)
+
+Outro posible exemplo: Alexandra Elbakyan. Di na Wikipedia:
+«En diciembre de 2016, la revista Nature nombró a Elbakyan como una de las diez personas más destacadas del año debido al impacto que ha tenido Sci-Hub en el mundo de la ciencia.
+Seis meses más tarde (junio de 2017) Elbakyan perdió el juicio contra Elsevier y fue condenada a pagar una multa de 15 millones de dólares en compensación a la infracción de derechos de autor. Sin embargo, al estar fuera de la jurisdicción de Estados Unidos (nación donde se hizo el juicio), Elbakyan no ha sido perseguida en Rusia (lugar de residencia) para pagar esta multa e incluso se duda si alguna vez lo hará».
+
+Por suposto que hai teorías conspiranoicas que na actualidade están máis que superadas, pero penso que non é a iso ao que se refiren nos audios, senón a teorías cientícas realmente polémicas na actualidade (como penso que podería ser a dos organismos modificados xenéticamente e as súas posibles consecuencias; mestúranse aquí intereses económicos que -supoño que en moitas ocasións- subordinan á ciencia).
+
+Por certo, as obras de Darwin entraron na Biblioteca da USC fai menos de 100 anos (en realidade xa entraran antes pero foron expulsadas xunto co profesor que as introducira: Augusto González de Linares). Nalgún sitio lin algunha vez que "No faltará tampoco algún Rector, como el de Santiago de Compostela, que a finales del siglo (XIX) se jacte públicamente de que en la Biblioteca central de su Universidad no haya ni un solo libro de Darwin o Haeckel".
 
 <hr>

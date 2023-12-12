@@ -26,10 +26,12 @@ _El hecho de que se puedan enseñar probabilidades a los niños no es en sí raz
 
 El día 08/10/2023 en el programa de Radio Nacional de España No es un día cualquiera se escuchó lo siguiente:
 
-     You can hear this in the word <a href=“001.mp3”>elephant</a>
+<script>
+    var audio = new Audio('https://github.com/j-losada/docencia/blob/main/audio_05_no_es_un_dia_cualquiera.mp3?raw=true');
+    audio.play();
+</script>
 
 
-const audioTune = new Audio("https://github.com/j-losada/docencia/blob/main/audio_05_no_es_un_dia_cualquiera.mp3?raw=true");
 
 
 Outra posible explicación da dificultade de explicar (para o docente) e entender (para o discente) matemáticas podería ser a seguinte:

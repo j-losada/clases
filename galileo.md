@@ -1,7 +1,7 @@
 __Matemáticas, humanidades, Galileo, Giordano Bruno, pensamiento crítico...__
 
 El día 25/11/2021 en el programa de [Radio Nacional de España](https://www.rtve.es/radio/) [_Efecto Doppler_](https://www.rtve.es/play/audios/efecto-doppler/) se escuchó lo siguiente:
-<audio id="ID008" source src="audio_03_dictaduras_aritmetica.mp3"></audio><button onclick="playAudio('ID008')" type="button">audio_08</button>
+<audio id="ID008" source src="audio_03_dictaduras_aritmetica.mp3"></audio><button onclick="playAudio('ID008')" type="button">audio_08 (03:23)</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);
@@ -16,7 +16,7 @@ _«Escribe Esteban Hernández que las élites españolas están en guerra contra
 (audio de [Víctor García Guerrero](https://twitter.com/VictorGGuerrero?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), lleva por título [_Dictaduras de aritmética rugen libertad_](https://www.ivoox.com/dictaduras-aritmetica-rugen-libertad-audios-mp3_rf_78824089_1.html))
 
 Más audios (un tanto extraños):
-<audio id="ID009" source src="audio_intro.mp3"></audio><button onclick="playAudio('ID009')" type="button">audio_09</button>
+<audio id="ID009" source src="audio_intro.mp3"></audio><button onclick="playAudio('ID009')" type="button">audio_09 (02:44)</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);
@@ -24,7 +24,7 @@ function playAudio(audio_element) {
 }
 </script>
 
-<audio id="ID010" source src="audio_galileo_bruno.mp3"></audio><button onclick="playAudio('ID010')" type="button">audio_10</button>
+<audio id="ID010" source src="audio_galileo_bruno.mp3"></audio><button onclick="playAudio('ID010')" type="button">audio_10 (08:04)</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);
@@ -32,7 +32,7 @@ function playAudio(audio_element) {
 }
 </script>
 
-<audio id="ID011" source src="audio_ciencia_mal.mp3"></audio><button onclick="playAudio('ID011')" type="button">audio_11</button>
+<audio id="ID011" source src="audio_ciencia_mal.mp3"></audio><button onclick="playAudio('ID011')" type="button">audio_11 (01:04)</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);
@@ -40,7 +40,7 @@ function playAudio(audio_element) {
 }
 </script>
 
-<audio id="ID012" source src="audio_pensamiento_critico.mp3"></audio><button onclick="playAudio('ID012')" type="button">audio_12</button>
+<audio id="ID012" source src="audio_pensamiento_critico.mp3"></audio><button onclick="playAudio('ID012')" type="button">audio_12 (03:57)</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);

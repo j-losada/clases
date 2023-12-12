@@ -77,6 +77,8 @@ _Es racional presentar las matemáticas lógicamente, pero no es acertado. Consi
 
 <hr>
 
+<hr>
+
 Grazas polo teu comentario X.
 
 A obra de Morris Kline _El fracaso de la matemática moderna_ apareceu en 1973 e Russell faleceu en 1970. Atrévome a afirmar que Kline coñecía perfectamente a obra, pensamento e "militancia" de Russell cando escribiu o seu libro.

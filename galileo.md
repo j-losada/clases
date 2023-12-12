@@ -64,7 +64,7 @@ Moitas grazas X polo teu comentario.
 Na miña opinión, no audio non pretenden defender en absoluto teorías conspiranoicas e tampouco mencionan o terraplanismo. Penso que simplemente se preguntan se agora, a diferencia da época de Galileo Galilei e Giordano Bruno, non existe a censura científica. Bueno... máis ben penso que suxiren que si que existe.
 
 Para min, un exemplo claro do que mencionan podería ser isto:
-- [Bayer acepta pagar 11.000 millones de dólares a las víctimas del herbicida Roundup en Estados Unidos](https://elpais.com/sociedad/2020-06-24/bayer-acepta-pagar-11000-millones-de-dolares-a-las-victimas-del-herbicida-roundup.html)
+- [_Bayer acepta pagar 11.000 millones de dólares a las víctimas del herbicida Roundup en Estados Unidos_](https://elpais.com/sociedad/2020-06-24/bayer-acepta-pagar-11000-millones-de-dolares-a-las-victimas-del-herbicida-roundup.html)
 - [Glifosato](https://es.wikipedia.org/wiki/Glifosato)
 
 E, se queres, unha científica -aínda que non de formación- actual condenada a certo ostracismo podería ser [Marie-Monique Robin](https://es.wikipedia.org/wiki/Marie-Monique_Robin), autora de documentais coma por exemplo

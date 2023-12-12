@@ -1,6 +1,8 @@
 __Escuela o barbarie__
 
-Para finalizar con el foro me gustaría compartir con vosotros los siguientes fragmentos del libro [_Escuela o barbarie: entre el neoliberalismo salvaje y el delirio de la izquierda_](https://iacobus.usc.gal/permalink/34CISUG_USC/o7pcup/alma991001141759707712). Creo que está directamente relacionado con el Máster Universitario en Profesorado de Educación Secundaria Obligatoria y Bachillereato (el primer fragmento) y con los contenidos de esta materia (el segundo fragmento). Como siempre, os animo a una lectura y análisis crítico y a comentar lo que estiméis oportuno.
+Para finalizar con el foro me gustaría compartir con vosotros los siguientes fragmentos del libro [_Escuela o barbarie: entre el neoliberalismo salvaje y el delirio de la izquierda_](https://iacobus.usc.gal/permalink/34CISUG_USC/o7pcup/alma991001141759707712). Creo que está directamente relacionado con el Máster Universitario en Profesorado de Educación Secundaria Obligatoria y Bachillereato (el primer fragmento) y con los contenidos de esta materia (el segundo fragmento).
+
+Como siempre, os animo a una lectura y análisis crítico y a comentar lo que estiméis oportuno.
 
 En la página 172 dice:
 

@@ -36,7 +36,7 @@ _Esta valoración de los matemáticos es terriblemente negativa, pero parece nec
 
 _En vista de su obsesión por el progreso personal mediante la investigación, de su desgana a dedicar tiempo a los problemas de la pedagogía y de su desarrollo posiblemente limitado como seres humanos juiciosos, no es verosímil que los profesores de college puedan dirigir el trabajo de preparación de los planes de estudio para la enseñanza primaria y secundaria._
 
-<p align="right">(Morris Kline, en [El fracaso de la matemática moderna](https://iacobus.usc.gal/permalink/34CISUG_USC/o7pcup/alma991007825889707712))</p>
+<p align="right">(Morris Kline, en [El fracaso de la matemática moderna](https://iacobus.usc.gal/permalink/34CISUG_USC/o7pcup/alma991007825889707712)</p>
 
 Añado otro fragmento de _El fracaso de la matemática moderna_:
 

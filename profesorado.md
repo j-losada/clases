@@ -31,6 +31,8 @@ El día 08/10/2023 en el programa de Radio Nacional de España No es un día cua
     audio.play();
 </script>
 
+const audioTune = new Audio("const audioTune = new Audio("https://github.com/j-losada/docencia/blob/main/audio_05_no_es_un_dia_cualquiera.mp3?raw=true");
+
 
 
 

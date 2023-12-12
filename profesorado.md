@@ -29,17 +29,7 @@ El día 08/10/2023 en el programa de Radio Nacional de España No es un día cua
      You can hear this in the word <a href=“001.mp3”>elephant</a>
 
 
-
-click <audio id="ID004" source src="audio_05_no_es_un_dia_cualquiera.mp3"></audio><button onclick="playAudio('ID004')" type="button">play4</button> and then <audio id="ID003" source src="003.mp3"></audio><button onclick="playAudio('ID003')" type="button">play3</button>
-<script>
-function playAudio(audio_element) {
-	var x = document.getElementById(audio_element);
-	x.play();
-}
-</script>
-
-
-const audioTune = new Audio("https://github.com/j-losada/docencia/blob/main/audio_05_no_es_un_dia_cualquiera.mp3?raw=true');
+const audioTune = new Audio("https://github.com/j-losada/docencia/blob/main/audio_05_no_es_un_dia_cualquiera.mp3?raw=true");
 
 
 Outra posible explicación da dificultade de explicar (para o docente) e entender (para o discente) matemáticas podería ser a seguinte:

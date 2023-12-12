@@ -2,7 +2,7 @@ __La necesidad del número _e___
 
 El número _e_ se introduce ¿habitualmente? sin ningún tipo de justificación.
 
-No obstante, la matemática húngara [Rózsa Péter](), en su obra [Jugando con el Infinito](https://j-losada.github.io/divulgacion/jugando_con_el_infinito.html), comenta lo siguiente:
+No obstante, la matemática húngara [Rózsa Péter](https://es.wikipedia.org/wiki/R%C3%B3zsa_P%C3%A9ter), en su obra [Jugando con el Infinito](https://j-losada.github.io/divulgacion/jugando_con_el_infinito.html), comenta lo siguiente:
 -  📎 [Capítulo 13](numeroe.pdf)<br/>
 
 Dic Morris Kline en _El fracaso de matemática moderna_ que:

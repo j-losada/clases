@@ -11,7 +11,7 @@ function playAudio(audio_element) {
 
  
 - "¿Estamos viendo como las matemáticas afectan el PIB nacional y como crean muchos puestos de trabajo"?
-- "¿Este gobierno ha decidido que las matemáticas no serán obligatorias en la escuela secundaria"?
+- "¿Este gobierno ha decidido que las matemáticas no serán obligatorias en bachillerato"?
 - ¿“La Universidad Católica de Murcia, la Universidad de Nebrija son de dudosa formación”? ¿El problema son las titulaciones o las universidades?
 - "¿Un químico no puede enseñar matemáticas con esa visión de (ininteligible) futuro"?
 - ¿“Un diplomado en ADE no lo puede explicar por mucho que quiera”?

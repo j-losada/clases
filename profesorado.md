@@ -24,6 +24,7 @@ _El hecho de que se puedan enseñar probabilidades a los niños no es en sí raz
 <img src="maestro_enfermo.jpg" width="500"  class="center"  border="2">
 </p>
 
+<hr>
 __Sobre la dificultad de explicar, entender y hacer matemáticas__
 
 El día 08/10/2023 en el programa de Radio Nacional de España No es un día cualquiera se escuchó lo siguiente:
@@ -58,9 +59,9 @@ _Esta valoración de los matemáticos es terriblemente negativa, pero parece nec
 
 _En vista de su obsesión por el progreso personal mediante la investigación, de su desgana a dedicar tiempo a los problemas de la pedagogía y de su desarrollo posiblemente limitado como seres humanos juiciosos, no es verosímil que los profesores de college puedan dirigir el trabajo de preparación de los planes de estudio para la enseñanza primaria y secundaria._
 
-<hr>(Morris Kline, en _El fracaso de la matemática moderna_)<hr>
+<p align="right">(Morris Kline, en _El fracaso de la matemática moderna_)<p\>
 
-Engado outro fragmento de _El fracaso de la matemática moderna_:
+Añado otro fragmento de _El fracaso de la matemática moderna_:
 
 _La mayor parte de los matemáticos no están interesados en la psicología del aprendizaje. Es un tema muy difícil, más difícil que las matemáticas. ¿Cuánto pueden aprender los jóvenes? ¿Se les puede sobornar con caramelos para que aprendan algo de memoria? ¿Resultan más fáciles las abstracciones para los jóvenes? ¿Parecerían los números negativos menos artificiales si se enseñasen antes? Un pedagogo hará todo lo que pueda para aprovechar los resultados de los psicólogos y aprender también de su propia experiencia. Los matemáticos no se tomarán el trabajo de aprovechar lo que los psicólogos puedan ofrecer, ni se tomarán la molestia de desarrollar su dominio del arte de enseñar._
 

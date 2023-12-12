@@ -1,7 +1,7 @@
 __Sobre matemáticas (o ciencia) y sociedad__
 
 El día 07/09/2023 en el programa de [Radio Nacional](https://www.rtve.es/radio/) de España [_Efecto Doppler_](https://www.rtve.es/play/audios/efecto-doppler/) se escuchó lo siguiente:
-<audio id="ID003" source src="audio_01_escuelas_en ruinas.mp3"></audio><button onclick="playAudio('ID003')" type="button">audio_03</button>
+<audio id="ID003" source src="audio_01_escuelas_en ruinas.mp3"></audio><button onclick="playAudio('ID003')" type="button">audio_03 (03:11)</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);
@@ -10,7 +10,7 @@ function playAudio(audio_element) {
 </script>
    
 En el mismo programa radiofónico, el 14/12/2022 se escuchó lo siguiente:
-<audio id="ID004" source src="audio_02_arte_clase_obrera.mp3"></audio><button onclick="playAudio('ID004')" type="button">audio_04</button>
+<audio id="ID004" source src="audio_02_arte_clase_obrera.mp3"></audio><button onclick="playAudio('ID004')" type="button">audio_04 (03:35)</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);
@@ -32,7 +32,7 @@ Formulo las siguientes preguntas:
 Volví a encender la radio y no sé si fue buena idea.
 
 En el programa [_A hombros de gigantes_](https://www.rtve.es/play/audios/a-hombros-de-gigantes/) de Radio Nacional de España, que se emite los sábados de 03:00 a 04:00 de la mañana, decían esto:
-<audio id="ID005" source src="audio_a_hombros de gigantes.mp3"></audio><button onclick="playAudio('ID005')" type="button">audio_05</button>
+<audio id="ID005" source src="audio_a_hombros de gigantes.mp3"></audio><button onclick="playAudio('ID005')" type="button">audio_05 (08:17)</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);
@@ -41,7 +41,7 @@ function playAudio(audio_element) {
 </script>
 
 Las tardes de Radio Nacional son más tranquilas. En el programa [_Por tres razones_](https://www.rtve.es/play/audios/por-tres-razones/) de ayer dijeron esto:
-<audio id="ID006" source src="audio_por_tres_razones.mp3"></audio><button onclick="playAudio('ID006')" type="button">audio_06</button>
+<audio id="ID006" source src="audio_por_tres_razones.mp3"></audio><button onclick="playAudio('ID006')" type="button">audio_06 (12:41)</button>
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);

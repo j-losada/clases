@@ -38,7 +38,7 @@ function playAudio(audio_element) {
 }
 </script>
 
-Las tardes de Radio Nacional son más tranquilas. En el programa _Por tres razones_ de ayer dijeron esto:
+Las tardes de Radio Nacional son más tranquilas. En el programa [_Por tres razones_](https://www.rtve.es/play/audios/por-tres-razones/) de ayer dijeron esto:
 <audio id="ID006" source src="audio_por_tres_razones.mp3"></audio><button onclick="playAudio('ID006')" type="button">audio_06</button>
 <script>
 function playAudio(audio_element) {
@@ -63,8 +63,10 @@ Moitas grazas X polo teu longo comentario.
 Por favor, se me esquezo, lémbrame que o vindeiro martes comentemos brevemente isto que dis de que "un dos principais defectos do noso sistema educativo en secundaria é que os profesores carecen de formación pedagóxica suficiente, ao tempo que quizais teñan formación excesiva (no sentido de que é demasiado específica) nas súas materias".
 
 En relación coa produción (maldita palabra) científica e cultural da "clase obreira", penso que no audio, ademais de comentar as dificultades que mencionas, o autor tamén se refire (quizais implícitamente) a un certo desprezo e incluso censura ou ocultación do discurso e propostas dese grupo social. Penso que en Galicia temos numerosos exemplos, un deles podería ser este:
+
 [https://www.elprogreso.es/articulo/a-marina/niebla-que-nadie-quiso-ver-sigue-ahi/202107231419101515750.html](https://www.elprogreso.es/articulo/a-marina/niebla-que-nadie-quiso-ver-sigue-ahi/202107231419101515750.html
 )
+
 (O titulaer é: La nieba que nadie quiso ver sigue ahí, pero no primeiro parágrafo da noticia di: Los vecinos lo dijeron mil veces: la niebla es el estado natural en O Fiouco. Lo sabían en la vertiente de Mondoñedo y lo sabían en la de Abadín.)
 
 En relación co teu cuarto parágrafo: a miña sensación é que o mundo cambia máis rápido do que pensamos. Cando eu estudei matemáticas -deixo para vós decidir se foi hai moito ou pouco tempo- non había nota de corte; podías matricularte en novembro. Penso que en Física pasaba algo similar. E non só iso, senón que cando comentei no instituto que se cadra ía estudar Matemáticas, algúns profesores dixeron algo moi similar a:  "as túas cualificacións son boas, non desperdicies a túa intelixencia en estudar Matemáticas e rematar de profesor de instituto". Recoñezo que naquel momento sorprendeume bastante que o peor que che podía pasar se estudabas Matemáticas era rematar de profesor de instituto, e que me informase de tal perigo un profesor de instituto...

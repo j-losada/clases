@@ -1,5 +1,17 @@
 # Matemáticas para profesorado de secundaria<br/>
 
+
+- [Sobre la difultad de explicar, entender y hacer matemáticas](dificultade.md)
+- [Sobre matemáticas (o ciencia) y sociedad](sociedade.md)
+- [La necesidad del número _e_](numeroe.md)
+- [Nuevo atentado contra las matemáticas](atentado.md)
+- [Matemáticas, humanidades, Galileo, Giordano Bruno, pensamiento crítico...](galileo.md)
+- [Escuela o barbarie](escuelaobarbarie.md)
+
+<hr>
+
+<hr>
+
 Según las [_Bases para la elaboración de un currículo de Matemáticas en Educación no Universitaria_](https://matematicas.uclm.es/cemat/wp-content/uploads/bases2021.pdf) redactadas en mayo de 2021 por el Comité Español de Matemáticas (CEMat):
 
 _"En Bachillerato todo el alumnado debería: Valorar que la probabilidad no es una propiedad objetiva de los sucesos, sino la percepción o grado de creencia en la verosimilitud de la persona que asigna la probabilidad sobre la plausibilidad de ocurrencia de un suceso"._
@@ -23,11 +35,3 @@ _El hecho de que se puedan enseñar probabilidades a los niños no es en sí raz
 <p align="center">
 <img src="maestro_enfermo.jpg" width="500"  class="center"  border="2">
 </p>
-
-- [Sobre la difultad de explicar, entender y hacer matemáticas](dificultade.md)
-- [Sobre matemáticas (o ciencia) y sociedad](sociedade.md)
-- [La necesidad del número _e_](numeroe.md)
-- [Nuevo atentado contra las matemáticas](atentado.md)
-- [Matemáticas, humanidades, Galileo, Giordano Bruno, pensamiento crítico...](galileo.md)
-- [Escuela o barbarie](escuelaobarbarie.md)
-

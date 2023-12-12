@@ -54,7 +54,7 @@ Me quedé pensando y:
 - Visto lo visto -o mejor dicho, oído lo oído- ¿debería aumentar la inversión pública en ciencia?
 - ¿Es la ciencia un bien de consumo más en la sociedad occidental actual? ¿Qué pasa con la educación? (disculpas por el rap al inicio del segundo audio)
 - Sobre GeoGebra, obviando -como hacen en el propio programa- el debate sobre su utilidad y conveniencia en el aula de matemáticas, me pareció curioso que no mencionaran que el dueño de GeoGebra es de Byju. Como -futuros- docentes de secundaria ¿deberíamos preocuparnos por lo que se dice en el siguiente texto?
-[https://en.wikipedia.org/wiki/Byju%27s#Criticism](https://en.wikipedia.org/wiki/Byju%27s#Criticism)
+[_Byju's_ (Wikipedia)](https://en.wikipedia.org/wiki/Byju%27s#Criticism)
 
 <hr>
 
@@ -66,8 +66,7 @@ Por favor, se me esquezo, lémbrame que o vindeiro martes comentemos brevemente 
 
 En relación coa produción (maldita palabra) científica e cultural da "clase obreira", penso que no audio, ademais de comentar as dificultades que mencionas, o autor tamén se refire (quizais implícitamente) a un certo desprezo e incluso censura ou ocultación do discurso e propostas dese grupo social. Penso que en Galicia temos numerosos exemplos, un deles podería ser este:
 
-[https://www.elprogreso.es/articulo/a-marina/niebla-que-nadie-quiso-ver-sigue-ahi/202107231419101515750.html](https://www.elprogreso.es/articulo/a-marina/niebla-que-nadie-quiso-ver-sigue-ahi/202107231419101515750.html
-)
+- [_La niebla que nadie quiso ver sigue ahí_ (El Progreso)](https://www.elprogreso.es/articulo/a-marina/niebla-que-nadie-quiso-ver-sigue-ahi/202107231419101515750.html)
 
 (O titulaer é: La nieba que nadie quiso ver sigue ahí, pero no primeiro parágrafo da noticia di: Los vecinos lo dijeron mil veces: la niebla es el estado natural en O Fiouco. Lo sabían en la vertiente de Mondoñedo y lo sabían en la de Abadín.)
 

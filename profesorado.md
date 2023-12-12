@@ -79,7 +79,7 @@ A obra de Morris Kline _El fracaso de la matemática moderna_ apareceu en 1973 e
 De qué matemáticos fala Kline? Claro, para responder a esta cuestión habería que ler o libro completo.
 (Culpa miña por suxerir comentar aquí fragmentos illados da obra e non comentar nada en clases sobre o autor e a propia obra, intento correxirme a continuación).
 Kline fala dos matemáticos que a comezos dos anos 70 redactaron un novidoso plan de estudos (para primaria e secundaria) para substituír ao que eles mesmos denominaban "matemática tradicional". Foron as coñecidas como New Math que, nacendo en EEUU, pronto chegaron a moitos países de Europa occidental. O certo é que, tal e como xa advertira Kline, foron un sonoro fracso. Mesmo apareceron cancións ridiculizando tal "reforma":
-Reproducir vídeo
+[https://www.youtube.com/watch?v=UIKGV2cTgqA&t=4s](https://www.youtube.com/watch?v=UIKGV2cTgqA&t=4s)
 
 Curiosamente, nalgún fragmento da obra, Kline di algo moi parecido ao que dis ti no final do teu terceiro parágrafo.
 

@@ -54,7 +54,7 @@ Me quedé pensando y:
 - Visto lo visto -o mejor dicho, oído lo oído- ¿debería aumentar la inversión pública en ciencia?
 - ¿Es la ciencia un bien de consumo más en la sociedad occidental actual? ¿Qué pasa con la educación? (disculpas por el rap al inicio del segundo audio)
 - Sobre GeoGebra, obviando -como hacen en el propio programa- el debate sobre su utilidad y conveniencia en el aula de matemáticas, me pareció curioso que no mencionaran que el dueño de GeoGebra es de Byju. Como -futuros- docentes de secundaria ¿deberíamos preocuparnos por lo que se dice en el siguiente texto?
-[_Byju's_ (Wikipedia)](https://en.wikipedia.org/wiki/Byju%27s#Criticism)
+[_Byju's (Criticism)_ (Wikipedia)](https://en.wikipedia.org/wiki/Byju%27s#Criticism)
 
 <hr>
 

@@ -24,6 +24,8 @@ _El hecho de que se puedan enseñar probabilidades a los niños no es en sí raz
 <img src="maestro_enfermo.jpg" width="500"  class="center"  border="2">
 </p>
 
+Sobre la dificultad de explicar, entender y hacer matemáticas
+
 El día 08/10/2023 en el programa de Radio Nacional de España No es un día cualquiera se escuchó lo siguiente:
 <audio id="ID004" source src="audio_05_no_es_un_dia_cualquiera.mp3"></audio><button onclick="playAudio('ID004')" type="button">audio_01</button>
 <script>
@@ -34,7 +36,8 @@ function playAudio(audio_element) {
 </script>
 Se abre el debate.
 
-Outra posible explicación da dificultade de explicar (para o docente) e entender (para o discente) matemáticas podería ser a seguinte:
+Otra posible explicación de la dificultad de explicar (para el docente) y entender (para el discente) matemáticas podría ser la siguiente:
+
 Sobre una base de pura probabilidad, la inteligencia se distribuiría entre los matemáticos como entre los abogados, los médicos, los ingenieros y los hombres de negocios. Pero un ligero análisis nos puede llevar a dudar de que los matemáticos posean su parte de inteligencia. ¿Qué puede atraer a la gente hacia las matemáticas? Son una cosa sencilla, por comparación con la economía, la psicología o la física. Son un campo estrecho. No hay que tener un amplio bagaje de conocimientos para hacer matemáticas puras. Además, las matemáticas per se no tienen nada que ver con los seres humanos ni con los complejos problemas que plantea su trato. Como dijo Bertrand Russell, «Distante de las pasiones humanas, distante incluso de los compasivos actos de la naturaleza, las generaciones han creado un cosmos ordenado en que el pensamiento puro puede explayarse como en su propia casa y en el que al menos uno de nuestros más nobles impulsos puede escapar de su monótono exilio en el mundo real». Las matemáticas son adecuadas para atraer a aquellos que no se sienten capaces de tratar con la gente, a aquellos que se alejan de los problemas del mundo y que reconocen incluso conscientemente su incapacidad para tratar con tales problemas. Las matemáticas pueden servir de refugio.
 
 Los matemáticos como clase están sobrevalorados en otras cuestiones esenciales. Se tiende a suponer que los profesores son de condición superior y que por tanto sólo abrazarán aquellas causas y movimientos que sean provechosos para la sociedad. Desgraciadamente, en las matemáticas también hay oportunistas, chaqueteros, reaccionarios, gentes ansiosas de prestigio o de poder y rateros. Es triste leer en la historia de las matemáticas que incluso muchos grandes matemáticos se rebajaron a presentar como propios resultados que habían tomado de otros.

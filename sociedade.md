@@ -1,6 +1,6 @@
 __Sobre matemáticas (o ciencia) y sociedad__
 
-El día 07/09/2023 en el programa de [Radio Nacional de España](https://www.rtve.es/radio/) [_Efecto Doppler_](https://www.rtve.es/play/audios/efecto-doppler/) se escuchó lo siguiente:
+El día 07/09/2023 en el programa de [Radio Nacional](https://www.rtve.es/radio/) de España [_Efecto Doppler_](https://www.rtve.es/play/audios/efecto-doppler/) se escuchó lo siguiente:
 <audio id="ID003" source src="audio_01_escuelas_en ruinas.mp3"></audio><button onclick="playAudio('ID003')" type="button">audio_03</button>
 <script>
 function playAudio(audio_element) {

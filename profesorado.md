@@ -38,6 +38,8 @@ function playAudio(audio_element) {
 
 Se abre el debate.
 
+<hr>
+
 Otra posible explicación de la dificultad de explicar (para el docente) y entender (para el discente) matemáticas podría ser la siguiente:
 <audio id="ID002" source src="audio_bastos.mp3"></audio><button onclick="playAudio('ID002')" type="button">audio_02</button>
 <script>
@@ -48,6 +50,8 @@ function playAudio(audio_element) {
 </script>
 
 (Escuchado en la conferencia del profesor Miguel Anxo Bastos en el Seminario "Ideologías y Teoría Política contemporánea" de la Universidad Francisco Marroquin)
+
+<hr>
 
 Otra posible explicación de la dificultad de explicar (para el docente) y entender (para el discente) matemáticas podría ser la siguiente:
 
@@ -71,6 +75,7 @@ _Una de las razones básicas de que los matemáticos fallen como pedagogos provi
 
 _Es racional presentar las matemáticas lógicamente, pero no es acertado. Consideremos la enseñanza del cálculo. Sabemos que el cálculo se construye sobre la teoría de los límites y podríamos concluir que el camino para enseñar el cálculo es empezar con la teoría de los límites. Un hombre inteligente también reflexionaría sobre si los jóvenes podrán aprender la teoría de los límites desde un principio y si querrán aprenderla sin motivaciones y aclaraciones previas._
 
+<hr>
 
 Grazas polo teu comentario X.
 
@@ -95,3 +100,5 @@ Anímote a ti e a calquera estudante a ler o libro completo, non é moi longo e 
 
 Aínda que son ben coñecidos numerosos exemplos nos que as ciencias non contribuiron en absoluto á mellora e avance da sociedade, últimamente tamén apareceron nos xornais novas sobre a investigación científica e a utilidade da mesma. Por exemplo:
 [https://elpais.com/ciencia/2023-04-20/se-nos-pudre-la-ciencia.html](https://elpais.com/ciencia/2023-04-20/se-nos-pudre-la-ciencia.html)
+
+<hr>

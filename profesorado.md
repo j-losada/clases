@@ -1,5 +1,6 @@
 # Matemáticas para profesorado de secundaria<br/>
 
+Pensé que crear un _Foro de debate_ podría ser interesante, pero lo cierto es que no cautivó a los estudiantes. En cualquier caso, estos fueron los temas tratados:
 
 - [Sobre la difultad de explicar, entender y hacer matemáticas](dificultade.md)
 - [Sobre matemáticas (o ciencia) y sociedad](sociedade.md)
@@ -7,6 +8,8 @@
 - [Nuevo atentado contra las matemáticas](atentado.md)
 - [Matemáticas, humanidades, Galileo, Giordano Bruno, pensamiento crítico...](galileo.md)
 - [Escuela o barbarie](escuelaobarbarie.md)
+
+(Al final de cada tópico aparece anonimizada mi respuesta a alguna de las intervenciones e los estudiantes (que tendremos que imaginar))
 
 <hr>
 

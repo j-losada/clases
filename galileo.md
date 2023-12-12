@@ -49,8 +49,15 @@ function playAudio(audio_element) {
  
 (audios del programa [_La cuadratura del círculo_](https://www.rtve.es/play/audios/la-cuadratura-del-circulo/) emitido el 19/05/2022 que lleva por título _Los herejes del siglo XXI_)
 
-En relación co que mencionabades noutros fíos anteriores sobre o elitismo actual das ciencias e o desluestre das humanidades:  «La matemática es útil hasta que vaticina el fin del imperio»? Están as elites españolas contra as humanidades?
-Como profesores de matemáticas (ou calquera outra ciencia) en secundaria, deberiamos falar da problemática que se menciona no primeiro audio do segundo bloque co noso alumnado? «La cienca se ha convertido en la religión de nuestro tiempo»?
-Considerades boa/mala idea falar da vida de Galileo Galilei e Giordano Bruno nas aulas de secundaria? En caso afirmativo, en que curso? Faise na actualidade? Forma parte do currículo? No audio, coméntase algo que descoñecíades sobre a vida de Galileo Galilei?
-Existen verdades absolutas («sagradas») en matemáticas (a nivel secundaria)? E teorías inconclusas?
-Sobre o pensamento crítico, podemos/debemos facer algo como profesores (de matemáticas de secundaria)? que exactamente?
+- En relación con lo que mencionabáis en otros hilos anteriores sobre el elitismo actual de las ciencias y el desluestre de las humanidades:  ¿«La matemática es útil hasta que vaticina el fin del imperio»? ¿Están las élites españolas en contra de las humanidades?
+- Como profesores de matemáticas (o cualquier otra ciencia) en secundaria, ¿deberíamos hablar de la problemática que se menciona en el primer audio del segundo bloque con nuestros estudiantes? ¿«La cienca se ha convertido en la religión de nuestro tiempo»?
+- ¿Consideráis buena/mala idea hablar de la vida de Galileo Galilei y Giordano Bruno en las aulas de secundaria? En caso afirmativo, ¿en qué curso? ¿Se hace en la actualidad? ¿Forma parte del currículum? ¿En el audio se comenta algo que no conocíais sobre la vida de Galileo Galilei?
+- ¿Existen verdades absolutas («sagradas») en matemáticas (a nivel de secundaria)? ¿Y teorías inconclusas?
+- Sobre el pensamiento crítico, ¿podemos/debemos hacer algo como profesores (de matemáticas en secundaria)? ¿Qué exactamente?
+
+<hr>
+<hr>
+
+
+
+<hr>

@@ -85,7 +85,7 @@ Curiosamente, nalgún fragmento da obra, Kline di algo moi parecido ao que dis t
 
 Xustamente, Kline critica duramente a un selecto grupo de matemáticos que, segundo a súa opinión, metéronse a falar de algo do que non teñen nin idea: o currículo de matemáticas para primaria e secundaria. El mesmo é matemático e na obra defende as ideas  e propostas de moitos matemáticos. Certamente, tamén critica duramente a de moitos outros e á comunidade matemática en xeral. 
 
-
+<hr>
 
 Grazas X polo teu comentario.
 

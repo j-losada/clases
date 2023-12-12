@@ -18,3 +18,9 @@ function playAudio(audio_element) {
 - "Hay un concepto básico y luego muchas aplicaciones", ¿o al revés?
 
 <hr>
+
+<hr>
+
+Esta entrada del foro apenas generó respuestas por parte de los estudiantes.
+
+<hr>

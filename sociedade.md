@@ -1,8 +1,20 @@
 El día 07/09/2023 en el programa de Radio Nacional de España _Efecto Doppler_ se escuchó lo siguiente:
-
+<audio id="ID003" source src="audio_01_escuelas_en_ruinas.mp3"></audio><button onclick="playAudio('ID003')" type="button">audio_01</button>
+<script>
+function playAudio(audio_element) {
+	var x = document.getElementById(audio_element);
+	x.play();
+}
+</script>
    
 En el mismo programa radiofónico, el 14/12/2022 se escuchó lo siguiente:
-
+<audio id="ID004" source src="audio_02_arte_clase_obrera.mp3"></audio><button onclick="playAudio('ID004')" type="button">audio_01</button>
+<script>
+function playAudio(audio_element) {
+	var x = document.getElementById(audio_element);
+	x.play();
+}
+</script>
  
 (audios de Víctor García Guerrero, el primeiro lleva por título _Escuelas en ruínas en el país de Oxford_ y el segundo _El arte no es para la clase obrera_)
 

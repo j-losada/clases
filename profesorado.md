@@ -34,6 +34,7 @@ function playAudio(audio_element) {
 	x.play();
 }
 </script>
+
 Se abre el debate.
 
 Otra posible explicación de la dificultad de explicar (para el docente) y entender (para el discente) matemáticas podría ser la siguiente:
